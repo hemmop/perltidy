@@ -12,5 +12,5 @@
 # Requires perltidy 20120619
 --blank-lines-before-subs=2
 
-# Requires perltidy 20120701
---all-containers-tightness=2
+# Requires perltidy 20121207
+#--all-containers-tightness=2
