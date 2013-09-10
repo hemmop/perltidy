@@ -1,4 +1,5 @@
 --backup-and-modify-in-place
+--backup-file-extension='/'
 --indent-columns=2
 --maximum-line-length=79
 --stack-opening-tokens
