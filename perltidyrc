@@ -7,9 +7,3 @@
 --paren-tightness=2
 --nooutdent-long-comments
 --noblanks-before-comments
-
-# Requires perltidy 20120619
---blank-lines-before-subs=2
-
-# Requires perltidy 20121207
-#--all-containers-tightness=2
